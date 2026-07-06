@@ -1,0 +1,6 @@
+{
+  "name": "Decision Intelligence Platform",
+  "description": "An AI-powered full-stack platform for individuals, city planners, and community stakeholders to analyze datasets, simulate urban scenarios, and obtain intelligent decision support from Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
